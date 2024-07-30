@@ -1,0 +1,46 @@
+Item,Process,Ball Seat Pair,Leak Rate (SLPM),Processing Stage
+1,1,AA,0.084,After Mass Finishing
+2,2,BB,0.059,After Mass Finishing
+3,3,DD,0.056,After Mass Finishing
+4,4,AB,0.051,After Mass Finishing
+5,5,BD,0.1,After Mass Finishing
+6,6,DA,0.064,After Mass Finishing
+7,7,AD,0.072,After Mass Finishing
+8,8,BA,0.074,After Mass Finishing
+9,9,DB,0.039,After Mass Finishing
+10,1,AA,0.022,After 320
+11,2,BB,0.027,After 320
+12,3,DD,0.0057,After 320
+13,4,AB,0.029,After 320
+14,5,BD,0.025,After 320
+15,6,DA,0.0097,After 320
+16,7,AD,0.029,After 320
+17,8,BA,0.0259,After 320
+18,9,DB,0.0053,After 320
+19,1,AA,0.011,After 500
+20,2,BB,0.02,After 500
+21,3,DD,0.00071,After 500
+22,4,AB,0.0124,After 500
+23,5,BD,0.02,After 500
+24,6,DA,0.0003,After 500
+25,7,AD,0.0197,After 500
+26,8,BA,0.0188,After 500
+27,9,DB,0.00065,After 500
+28,1,AA,0.027,After 800
+29,2,BB,0.0064,After 800
+30,3,DD,0.0015,After 800
+31,4,AB,0.0111,After 800
+32,5,BD,0.0093,After 800
+33,6,DA,0.0096,After 800
+34,7,AD,0.0052,After 800
+35,8,BA,0.0025,After 800
+36,9,DB,0.00063,After 800
+37,1,AA,0.019,After 1200
+38,2,BB,0.0053,After 1200
+39,3,DD,0.0013,After 1200
+40,4,AB,0.0038,After 1200
+41,5,BD,0.0093,After 1200
+42,6,DA,0.0089,After 1200
+43,7,AD,0.0031,After 1200
+44,8,BA,0.00063,After 1200
+45,9,DB,0.004489,After 1200
