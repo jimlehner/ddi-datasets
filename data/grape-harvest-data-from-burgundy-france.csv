@@ -1,0 +1,666 @@
+,Year,Month,DoM,Empty1,Empty2,Empty3,DayNum,Day-of-Year:,Harvest Info,date,Date
+0,1354,Sep,23,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1354-Sep-23,
+1,1355,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1355-Sep-29,
+2,1356,Oct,14,,,(d-of-Yr):,288,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1356-Oct-14,
+3,1357,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1357-Sep-26,
+4,1358,Sep,23,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1358-Sep-23,
+5,1359,Oct,19,,,(d-of-Yr):,292,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1359-Oct-19,
+6,1360,Sep,18,,,(d-of-Yr):,262,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1360-Sep-18,
+7,1361,Sep,18,,,(d-of-Yr):,261,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1361-Sep-18,
+8,1362,Sep,25,,,(d-of-Yr):,268,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1362-Sep-25,
+9,1363,Oct,2,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1363-Oct-2,
+10,1364,Sep,27,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1364-Sep-27,
+11,1365,Sep,25,,,(d-of-Yr):,268,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1365-Sep-25,
+12,1366,Oct,13,,,(d-of-Yr):,286,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1366-Oct-13,
+13,1367,Oct,29,,,(d-of-Yr):,302,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1367-Oct-29,
+14,1368,Oct,6,,,(d-of-Yr):,280,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1368-Oct-6,
+15,1369,Sep,27,,,(d-of-Yr):,270,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1369-Sep-27,
+16,1370,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1370-Sep-24,
+17,1371,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1371-Sep-24,
+18,1372,Oct,5,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1372-Oct-5,
+19,1373,Sep,20,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1373-Sep-20,
+20,1374,Oct,3,,,(d-of-Yr):,276,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1374-Oct-3,
+21,1375,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1375-Sep-26,
+22,1376,Oct,5,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1376-Oct-5,
+23,1377,Sep,25,,,(d-of-Yr):,268,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1377-Sep-25,
+24,1378,Oct,1,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1378-Oct-1,
+25,1379,Sep,30,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1379-Sep-30,
+26,1380,Oct,2,,,(d-of-Yr):,276,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1380-Oct-2,
+27,1381,Oct,4,,,(d-of-Yr):,277,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1381-Oct-4,
+28,1382,Sep,27,,,(d-of-Yr):,270,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1382-Sep-27,
+29,1383,Sep,17,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1383-Sep-17,
+30,1384,Sep,14,,,(d-of-Yr):,258,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1384-Sep-14,
+31,1385,Sep,16,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1385-Sep-16,
+32,1386,Sep,25,,,(d-of-Yr):,268,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1386-Sep-25,
+33,1387,Oct,4,,,(d-of-Yr):,277,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1387-Oct-4,
+34,1388,Oct,8,,,(d-of-Yr):,282,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1388-Oct-8,
+35,1389,Sep,27,,,(d-of-Yr):,270,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1389-Sep-27,
+36,1390,Sep,17,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1390-Sep-17,
+37,1391,Sep,22,,,(d-of-Yr):,265,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1391-Sep-22,
+38,1392,Oct,9,,,(d-of-Yr):,283,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1392-Oct-9,
+39,1393,Sep,10,,,(d-of-Yr):,253,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1393-Sep-10,
+40,1394,Oct,7,,,(d-of-Yr):,280,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1394-Oct-7,
+41,1395,Oct,1,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1395-Oct-1,
+42,1396,Sep,19,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1396-Sep-19,
+43,1397,Sep,15,,,(d-of-Yr):,258,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1397-Sep-15,
+44,1398,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1398-Sep-24,
+45,1399,Oct,7,,,(d-of-Yr):,280,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1399-Oct-7,
+46,1400,Sep,17,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1400-Sep-17,
+47,1401,Sep,16,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1401-Sep-16,
+48,1402,Sep,16,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1402-Sep-16,
+49,1403,Sep,18,,,(d-of-Yr):,261,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1403-Sep-18,
+50,1404,Oct,3,,,(d-of-Yr):,277,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1404-Oct-3,
+51,1405,Oct,2,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1405-Oct-2,
+52,1406,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1406-Sep-28,
+53,1407,Sep,15,,,(d-of-Yr):,258,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1407-Sep-15,
+54,1408,Sep,15,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1408-Sep-15,
+55,1409,Sep,12,,,(d-of-Yr):,255,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1409-Sep-12,
+56,1410,Oct,1,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1410-Oct-1,
+57,1411,Oct,7,,,(d-of-Yr):,280,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1411-Oct-7,
+58,1412,Sep,18,,,(d-of-Yr):,262,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1412-Sep-18,
+59,1413,Sep,11,,,(d-of-Yr):,254,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1413-Sep-11,
+60,1414,Oct,1,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1414-Oct-1,
+61,1415,Sep,25,,,(d-of-Yr):,268,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1415-Sep-25,
+62,1416,Sep,30,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1416-Sep-30,
+63,1417,Sep,25,,,(d-of-Yr):,268,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1417-Sep-25,
+64,1418,Sep,16,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1418-Sep-16,
+65,1419,Sep,22,,,(d-of-Yr):,265,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1419-Sep-22,
+66,1420,Sep,5,,,(d-of-Yr):,249,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1420-Sep-5,
+67,1421,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1421-Sep-24,
+68,1422,Sep,16,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1422-Sep-16,
+69,1423,Oct,1,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1423-Oct-1,
+70,1424,Sep,16,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1424-Sep-16,
+71,1425,Sep,20,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1425-Sep-20,
+72,1426,Sep,16,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1426-Sep-16,
+73,1427,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1427-Sep-28,
+74,1428,Oct,10,,,(d-of-Yr):,284,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1428-Oct-10,
+75,1429,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1429-Sep-29,
+76,1430,Sep,18,,,(d-of-Yr):,261,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1430-Sep-18,
+77,1431,Sep,23,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1431-Sep-23,
+78,1432,Sep,18,,,(d-of-Yr):,262,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1432-Sep-18,
+79,1433,Sep,18,,,(d-of-Yr):,261,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1433-Sep-18,
+80,1434,Sep,4,,,(d-of-Yr):,247,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1434-Sep-4,
+81,1435,Sep,22,,,(d-of-Yr):,265,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1435-Sep-22,
+82,1436,Oct,5,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1436-Oct-5,
+83,1437,Oct,2,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1437-Oct-2,
+84,1438,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1438-Sep-26,
+85,1439,Sep,20,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1439-Sep-20,
+86,1440,Oct,1,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1440-Oct-1,
+87,1441,Sep,22,,,(d-of-Yr):,265,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1441-Sep-22,
+88,1442,Oct,14,,,(d-of-Yr):,287,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1442-Oct-14,
+89,1443,Sep,27,,,(d-of-Yr):,270,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1443-Sep-27,
+90,1444,Sep,26,,,(d-of-Yr):,270,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1444-Sep-26,
+91,1445,Sep,23,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1445-Sep-23,
+92,1446,Oct,1,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1446-Oct-1,
+93,1447,Oct,4,,,(d-of-Yr):,277,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1447-Oct-4,
+94,1448,Oct,3,,,(d-of-Yr):,277,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1448-Oct-3,
+95,1449,Oct,5,,,(d-of-Yr):,278,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1449-Oct-5,
+96,1450,Sep,30,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1450-Sep-30,
+97,1451,Oct,13,,,(d-of-Yr):,286,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1451-Oct-13,
+98,1452,Sep,28,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1452-Sep-28,
+99,1453,Oct,14,,,(d-of-Yr):,287,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1453-Oct-14,
+100,1454,Oct,11,,,(d-of-Yr):,284,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1454-Oct-11,
+101,1455,Oct,8,,,(d-of-Yr):,281,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1455-Oct-8,
+102,1456,Oct,9,,,(d-of-Yr):,283,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1456-Oct-9,
+103,1457,Sep,20,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1457-Sep-20,
+104,1458,Sep,27,,,(d-of-Yr):,270,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1458-Sep-27,
+105,1459,Oct,8,,,(d-of-Yr):,281,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1459-Oct-8,
+106,1460,Oct,1,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1460-Oct-1,
+107,1461,Sep,19,,,(d-of-Yr):,262,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1461-Sep-19,
+108,1462,Sep,20,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1462-Sep-20,
+109,1463,Oct,5,,,(d-of-Yr):,278,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1463-Oct-5,
+110,1464,Sep,16,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1464-Sep-16,
+111,1465,Oct,12,,,(d-of-Yr):,285,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1465-Oct-12,
+112,1466,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1466-Sep-29,
+113,1467,Oct,1,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1467-Oct-1,
+114,1468,Oct,9,,,(d-of-Yr):,283,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1468-Oct-9,
+115,1469,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1469-Sep-29,
+116,1470,Oct,11,,,(d-of-Yr):,284,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1470-Oct-11,
+117,1471,Sep,19,,,(d-of-Yr):,262,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1471-Sep-19,
+118,1472,Sep,23,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1472-Sep-23,
+119,1473,Sep,5,,,(d-of-Yr):,248,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1473-Sep-5,
+120,1474,Oct,5,,,(d-of-Yr):,278,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1474-Oct-5,
+121,1475,Sep,23,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1475-Sep-23,
+122,1476,Sep,25,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1476-Sep-25,
+123,1477,Oct,11,,,(d-of-Yr):,284,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1477-Oct-11,
+124,1478,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1478-Sep-26,
+125,1479,Sep,18,,,(d-of-Yr):,261,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1479-Sep-18,
+126,1480,Oct,6,,,(d-of-Yr):,280,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1480-Oct-6,
+127,1481,Oct,20,,,(d-of-Yr):,293,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1481-Oct-20,
+128,1482,Sep,19,,,(d-of-Yr):,262,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1482-Sep-19,
+129,1483,Sep,18,,,(d-of-Yr):,261,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1483-Sep-18,
+130,1484,Sep,23,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1484-Sep-23,
+131,1485,Oct,9,,,(d-of-Yr):,282,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1485-Oct-9,
+132,1486,Sep,20,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1486-Sep-20,
+133,1487,Sep,23,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1487-Sep-23,
+134,1488,Oct,19,,,(d-of-Yr):,293,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1488-Oct-19,
+135,1489,Oct,5,,,(d-of-Yr):,278,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1489-Oct-5,
+136,1490,Sep,23,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1490-Sep-23,
+137,1491,Oct,14,,,(d-of-Yr):,287,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1491-Oct-14,
+138,1492,Sep,21,,,(d-of-Yr):,265,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1492-Sep-21,
+139,1493,Oct,3,,,(d-of-Yr):,276,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1493-Oct-3,
+140,1494,Sep,20,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1494-Sep-20,
+141,1495,Sep,16,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1495-Sep-16,
+142,1496,Oct,8,,,(d-of-Yr):,282,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1496-Oct-8,
+143,1497,Oct,9,,,(d-of-Yr):,282,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1497-Oct-9,
+144,1498,Oct,13,,,(d-of-Yr):,286,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1498-Oct-13,
+145,1499,Oct,3,,,(d-of-Yr):,276,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1499-Oct-3,
+146,1500,Sep,18,,,(d-of-Yr):,261,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1500-Sep-18,
+147,1501,Sep,21,,,(d-of-Yr):,264,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1501-Sep-21,
+148,1502,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1502-Sep-26,
+149,1503,Sep,21,,,(d-of-Yr):,264,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1503-Sep-21,
+150,1504,Sep,14,,,(d-of-Yr):,258,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1504-Sep-14,
+151,1505,Oct,17,,,(d-of-Yr):,290,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1505-Oct-17,
+152,1506,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1506-Sep-28,
+153,1507,Sep,20,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1507-Sep-20,
+154,1508,Sep,26,,,(d-of-Yr):,270,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1508-Sep-26,
+155,1509,Sep,20,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1509-Sep-20,
+156,1510,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1510-Sep-24,
+157,1511,Oct,8,,,(d-of-Yr):,281,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1511-Oct-8,
+158,1512,Sep,23,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1512-Sep-23,
+159,1513,Sep,19,,,(d-of-Yr):,262,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1513-Sep-19,
+160,1514,Sep,27,,,(d-of-Yr):,270,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1514-Sep-27,
+161,1515,Oct,2,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1515-Oct-2,
+162,1516,Sep,11,,,(d-of-Yr):,255,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1516-Sep-11,
+163,1517,Sep,20,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1517-Sep-20,
+164,1518,Sep,16,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1518-Sep-16,
+165,1519,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1519-Oct-6,
+166,1520,Sep,12,,,(d-of-Yr):,256,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1520-Sep-12,
+167,1521,Sep,17,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1521-Sep-17,
+168,1522,Oct,2,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1522-Oct-2,
+169,1523,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1523-Sep-29,
+170,1524,Sep,15,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1524-Sep-15,
+171,1525,Sep,17,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1525-Sep-17,
+172,1526,Oct,2,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1526-Oct-2,
+173,1527,Oct,10,,,(d-of-Yr):,283,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1527-Oct-10,
+174,1528,Oct,1,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1528-Oct-1,
+175,1529,Oct,5,,,(d-of-Yr):,278,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1529-Oct-5,
+176,1530,Sep,12,,,(d-of-Yr):,255,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1530-Sep-12,
+177,1531,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1531-Sep-29,
+178,1532,Sep,24,,,(d-of-Yr):,268,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1532-Sep-24,
+179,1533,Sep,30,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1533-Sep-30,
+180,1534,Sep,17,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1534-Sep-17,
+181,1535,Sep,30,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1535-Sep-30,
+182,1536,Sep,14,,,(d-of-Yr):,258,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1536-Sep-14,
+183,1537,Oct,4,,,(d-of-Yr):,277,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1537-Oct-4,
+184,1538,Sep,12,,,(d-of-Yr):,255,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1538-Sep-12,
+185,1539,Sep,23,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1539-Sep-23,
+186,1540,Sep,6,,,(d-of-Yr):,250,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1540-Sep-6,
+187,1541,Oct,10,,,(d-of-Yr):,283,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1541-Oct-10,
+188,1542,Oct,24,,,(d-of-Yr):,297,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1542-Oct-24,
+189,1543,Oct,2,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1543-Oct-2,
+190,1544,Oct,2,,,(d-of-Yr):,276,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1544-Oct-2,
+191,1545,Sep,17,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1545-Sep-17,
+192,1546,Sep,16,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1546-Sep-16,
+193,1547,Sep,22,,,(d-of-Yr):,265,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1547-Sep-22,
+194,1548,Sep,27,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1548-Sep-27,
+195,1549,Oct,3,,,(d-of-Yr):,276,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1549-Oct-3,
+196,1550,Oct,2,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1550-Oct-2,
+197,1551,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1551-Sep-24,
+198,1552,Sep,15,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1552-Sep-15,
+199,1553,Oct,3,,,(d-of-Yr):,276,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1553-Oct-3,
+200,1554,Sep,20,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1554-Sep-20,
+201,1555,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1555-Oct-6,
+202,1556,Aug,23,,,(d-of-Yr):,236,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1556-Aug-23,
+203,1557,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1557-Sep-24,
+204,1558,Sep,23,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1558-Sep-23,
+205,1559,Aug,31,,,(d-of-Yr):,243,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1559-Aug-31,
+206,1560,Sep,27,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1560-Sep-27,
+207,1561,Sep,16,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1561-Sep-16,
+208,1562,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1562-Sep-24,
+209,1563,Sep,27,,,(d-of-Yr):,270,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1563-Sep-27,
+210,1564,Oct,9,,,(d-of-Yr):,283,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1564-Oct-9,
+211,1565,Sep,16,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1565-Sep-16,
+212,1566,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1566-Sep-24,
+213,1567,Sep,17,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1567-Sep-17,
+214,1568,Sep,30,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1568-Sep-30,
+215,1569,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1569-Sep-26,
+216,1570,Oct,2,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1570-Oct-2,
+217,1571,Sep,9,,,(d-of-Yr):,252,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1571-Sep-9,
+218,1572,Sep,18,,,(d-of-Yr):,262,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1572-Sep-18,
+219,1573,Oct,12,,,(d-of-Yr):,285,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1573-Oct-12,
+220,1574,Sep,30,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1574-Sep-30,
+221,1575,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1575-Sep-24,
+222,1576,Oct,5,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1576-Oct-5,
+223,1577,Oct,2,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1577-Oct-2,
+224,1578,Sep,22,,,(d-of-Yr):,265,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1578-Sep-22,
+225,1579,Oct,8,,,(d-of-Yr):,281,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1579-Oct-8,
+226,1580,Sep,28,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1580-Sep-28,
+227,1581,Oct,5,,,(d-of-Yr):,278,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1581-Oct-5,
+228,1582,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1582-Sep-28,
+229,1583,Sep,12,,,(d-of-Yr):,255,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1583-Sep-12,
+230,1584,Sep,26,,,(d-of-Yr):,270,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1584-Sep-26,
+231,1585,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1585-Oct-6,
+232,1586,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1586-Oct-6,
+233,1587,Oct,16,,,(d-of-Yr):,289,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1587-Oct-16,
+234,1588,Sep,25,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1588-Sep-25,
+235,1589,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1589-Oct-6,
+236,1590,Sep,15,,,(d-of-Yr):,258,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1590-Sep-15,
+237,1591,Oct,8,,,(d-of-Yr):,281,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1591-Oct-8,
+238,1592,Oct,5,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1592-Oct-5,
+239,1593,Oct,8,,,(d-of-Yr):,281,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1593-Oct-8,
+240,1594,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1594-Oct-6,
+241,1595,Oct,2,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1595-Oct-2,
+242,1596,Oct,21,,,(d-of-Yr):,295,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1596-Oct-21,
+243,1597,Oct,14,,,(d-of-Yr):,287,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1597-Oct-14,
+244,1598,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1598-Sep-28,
+245,1599,Sep,13,,,(d-of-Yr):,256,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1599-Sep-13,
+246,1600,Oct,19,,,(d-of-Yr):,293,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1600-Oct-19,
+247,1601,Oct,9,,,(d-of-Yr):,282,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1601-Oct-9,
+248,1602,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1602-Sep-26,
+249,1603,Sep,3,,,(d-of-Yr):,246,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1603-Sep-3,
+250,1604,Sep,21,,,(d-of-Yr):,265,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1604-Sep-21,
+251,1605,Sep,21,,,(d-of-Yr):,264,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1605-Sep-21,
+252,1606,Oct,4,,,(d-of-Yr):,277,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1606-Oct-4,
+253,1607,Sep,19,,,(d-of-Yr):,262,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1607-Sep-19,
+254,1608,Oct,6,,,(d-of-Yr):,280,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1608-Oct-6,
+255,1609,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1609-Sep-26,
+256,1610,Sep,20,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1610-Sep-20,
+257,1611,Sep,10,,,(d-of-Yr):,253,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1611-Sep-10,
+258,1612,Sep,30,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1612-Sep-30,
+259,1613,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1613-Sep-28,
+260,1614,Oct,9,,,(d-of-Yr):,282,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1614-Oct-9,
+261,1615,Sep,17,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1615-Sep-17,
+262,1616,Sep,15,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1616-Sep-15,
+263,1617,Oct,4,,,(d-of-Yr):,277,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1617-Oct-4,
+264,1618,Oct,5,,,(d-of-Yr):,278,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1618-Oct-5,
+265,1619,Sep,27,,,(d-of-Yr):,270,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1619-Sep-27,
+266,1620,Oct,2,,,(d-of-Yr):,276,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1620-Oct-2,
+267,1621,Oct,19,,,(d-of-Yr):,292,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1621-Oct-19,
+268,1622,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1622-Sep-28,
+269,1623,Sep,20,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1623-Sep-20,
+270,1624,Sep,19,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1624-Sep-19,
+271,1625,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1625-Oct-6,
+272,1626,Oct,1,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1626-Oct-1,
+273,1627,Oct,21,,,(d-of-Yr):,294,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1627-Oct-21,
+274,1628,Oct,12,,,(d-of-Yr):,286,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1628-Oct-12,
+275,1629,Oct,4,,,(d-of-Yr):,277,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1629-Oct-4,
+276,1630,Sep,21,,,(d-of-Yr):,264,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1630-Sep-21,
+277,1631,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1631-Sep-28,
+278,1632,Oct,14,,,(d-of-Yr):,288,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1632-Oct-14,
+279,1633,Oct,15,,,(d-of-Yr):,288,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1633-Oct-15,
+280,1634,Oct,8,,,(d-of-Yr):,281,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1634-Oct-8,
+281,1635,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1635-Sep-29,
+282,1636,Oct,4,,,(d-of-Yr):,278,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1636-Oct-4,
+283,1637,Oct,1,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1637-Oct-1,
+284,1638,Sep,18,,,(d-of-Yr):,261,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1638-Sep-18,
+285,1639,Sep,23,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1639-Sep-23,
+286,1640,Oct,5,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1640-Oct-5,
+287,1641,Oct,1,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1641-Oct-1,
+288,1642,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1642-Oct-6,
+289,1643,Oct,5,,,(d-of-Yr):,278,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1643-Oct-5,
+290,1644,Sep,19,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1644-Sep-19,
+291,1645,Sep,11,,,(d-of-Yr):,254,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1645-Sep-11,
+292,1646,Sep,19,,,(d-of-Yr):,262,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1646-Sep-19,
+293,1647,Sep,30,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1647-Sep-30,
+294,1648,Oct,5,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1648-Oct-5,
+295,1649,Oct,11,,,(d-of-Yr):,284,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1649-Oct-11,
+296,1650,Sep,30,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1650-Sep-30,
+297,1651,Sep,18,,,(d-of-Yr):,261,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1651-Sep-18,
+298,1652,Sep,26,,,(d-of-Yr):,270,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1652-Sep-26,
+299,1653,Sep,17,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1653-Sep-17,
+300,1654,Oct,5,,,(d-of-Yr):,278,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1654-Oct-5,
+301,1655,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1655-Sep-29,
+302,1656,Oct,2,,,(d-of-Yr):,276,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1656-Oct-2,
+303,1657,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1657-Sep-24,
+304,1658,Oct,7,,,(d-of-Yr):,280,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1658-Oct-7,
+305,1659,Sep,9,,,(d-of-Yr):,252,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1659-Sep-9,
+306,1660,Sep,13,,,(d-of-Yr):,257,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1660-Sep-13,
+307,1661,Sep,16,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1661-Sep-16,
+308,1662,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1662-Sep-29,
+309,1663,Oct,10,,,(d-of-Yr):,283,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1663-Oct-10,
+310,1664,Sep,22,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1664-Sep-22,
+311,1665,Sep,22,,,(d-of-Yr):,265,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1665-Sep-22,
+312,1666,Sep,17,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1666-Sep-17,
+313,1667,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1667-Oct-6,
+314,1668,Sep,25,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1668-Sep-25,
+315,1669,Sep,19,,,(d-of-Yr):,262,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1669-Sep-19,
+316,1670,Sep,22,,,(d-of-Yr):,265,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1670-Sep-22,
+317,1671,Sep,19,,,(d-of-Yr):,262,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1671-Sep-19,
+318,1672,Sep,30,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1672-Sep-30,
+319,1673,Oct,5,,,(d-of-Yr):,278,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1673-Oct-5,
+320,1674,Sep,27,,,(d-of-Yr):,270,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1674-Sep-27,
+321,1675,Oct,11,,,(d-of-Yr):,284,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1675-Oct-11,
+322,1676,Sep,9,,,(d-of-Yr):,253,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1676-Sep-9,
+323,1677,Sep,17,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1677-Sep-17,
+324,1678,Sep,21,,,(d-of-Yr):,264,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1678-Sep-21,1678-09-21
+325,1679,Sep,22,,,(d-of-Yr):,265,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1679-Sep-22,1679-09-22
+326,1680,Sep,12,,,(d-of-Yr):,256,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1680-Sep-12,1680-09-12
+327,1681,Sep,13,,,(d-of-Yr):,256,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1681-Sep-13,1681-09-13
+328,1682,Oct,5,,,(d-of-Yr):,278,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1682-Oct-5,1682-10-05
+329,1683,Sep,13,,,(d-of-Yr):,256,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1683-Sep-13,1683-09-13
+330,1684,Sep,4,,,(d-of-Yr):,248,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1684-Sep-4,1684-09-04
+331,1685,Sep,17,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1685-Sep-17,1685-09-17
+332,1686,Sep,6,,,(d-of-Yr):,249,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1686-Sep-6,1686-09-06
+333,1687,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1687-Sep-28,1687-09-28
+334,1688,Sep,30,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1688-Sep-30,1688-09-30
+335,1689,Sep,30,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1689-Sep-30,1689-09-30
+336,1690,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1690-Sep-29,1690-09-29
+337,1691,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1691-Sep-24,1691-09-24
+338,1692,Oct,13,,,(d-of-Yr):,287,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1692-Oct-13,1692-10-13
+339,1693,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1693-Oct-6,1693-10-06
+340,1694,Sep,20,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1694-Sep-20,1694-09-20
+341,1695,Oct,8,,,(d-of-Yr):,281,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1695-Oct-8,1695-10-08
+342,1696,Oct,6,,,(d-of-Yr):,280,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1696-Oct-6,1696-10-06
+343,1697,Sep,30,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1697-Sep-30,1697-09-30
+344,1698,Oct,15,,,(d-of-Yr):,288,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1698-Oct-15,1698-10-15
+345,1699,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1699-Sep-28,1699-09-28
+346,1700,Oct,9,,,(d-of-Yr):,282,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1700-Oct-9,1700-10-09
+347,1701,Sep,30,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1701-Sep-30,1701-09-30
+348,1702,Sep,23,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1702-Sep-23,1702-09-23
+349,1703,Oct,2,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1703-Oct-2,1703-10-02
+350,1704,Sep,19,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1704-Sep-19,1704-09-19
+351,1705,Oct,5,,,(d-of-Yr):,278,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1705-Oct-5,1705-10-05
+352,1706,Sep,7,,,(d-of-Yr):,250,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1706-Sep-7,1706-09-07
+353,1707,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1707-Sep-28,1707-09-28
+354,1708,Sep,29,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1708-Sep-29,1708-09-29
+355,1709,Oct,8,,,(d-of-Yr):,281,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1709-Oct-8,1709-10-08
+356,1710,Sep,25,,,(d-of-Yr):,268,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1710-Sep-25,1710-09-25
+357,1711,Oct,1,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1711-Oct-1,1711-10-01
+358,1712,Oct,4,,,(d-of-Yr):,278,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1712-Oct-4,1712-10-04
+359,1713,Oct,11,,,(d-of-Yr):,284,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1713-Oct-11,1713-10-11
+360,1714,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1714-Oct-6,1714-10-06
+361,1715,Oct,2,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1715-Oct-2,1715-10-02
+362,1716,Oct,9,,,(d-of-Yr):,283,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1716-Oct-9,1716-10-09
+363,1717,Oct,1,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1717-Oct-1,1717-10-01
+364,1718,Sep,3,,,(d-of-Yr):,246,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1718-Sep-3,1718-09-03
+365,1719,Aug,29,,,(d-of-Yr):,241,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1719-Aug-29,1719-08-29
+366,1720,Sep,27,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1720-Sep-27,1720-09-27
+367,1721,Oct,1,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1721-Oct-1,1721-10-01
+368,1722,Sep,22,,,(d-of-Yr):,265,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1722-Sep-22,1722-09-22
+369,1723,Sep,14,,,(d-of-Yr):,257,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1723-Sep-14,1723-09-14
+370,1724,Sep,15,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1724-Sep-15,1724-09-15
+371,1725,Oct,11,,,(d-of-Yr):,284,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1725-Oct-11,1725-10-11
+372,1726,Sep,9,,,(d-of-Yr):,252,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1726-Sep-9,1726-09-09
+373,1727,Sep,12,,,(d-of-Yr):,255,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1727-Sep-12,1727-09-12
+374,1728,Sep,14,,,(d-of-Yr):,258,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1728-Sep-14,1728-09-14
+375,1729,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1729-Sep-28,1729-09-28
+376,1730,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1730-Sep-28,1730-09-28
+377,1731,Sep,21,,,(d-of-Yr):,264,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1731-Sep-21,1731-09-21
+378,1732,Sep,19,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1732-Sep-19,1732-09-19
+379,1733,Sep,21,,,(d-of-Yr):,264,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1733-Sep-21,1733-09-21
+380,1734,Sep,13,,,(d-of-Yr):,256,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1734-Sep-13,1734-09-13
+381,1735,Oct,7,,,(d-of-Yr):,280,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1735-Oct-7,1735-10-07
+382,1736,Sep,19,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1736-Sep-19,1736-09-19
+383,1737,Sep,17,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1737-Sep-17,1737-09-17
+384,1738,Sep,30,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1738-Sep-30,1738-09-30
+385,1739,Sep,23,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1739-Sep-23,1739-09-23
+386,1740,Oct,18,,,(d-of-Yr):,292,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1740-Oct-18,1740-10-18
+387,1741,Sep,27,,,(d-of-Yr):,270,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1741-Sep-27,1741-09-27
+388,1742,Oct,4,,,(d-of-Yr):,277,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1742-Oct-4,1742-10-04
+389,1743,Sep,27,,,(d-of-Yr):,270,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1743-Sep-27,1743-09-27
+390,1744,Sep,28,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1744-Sep-28,1744-09-28
+391,1745,Sep,25,,,(d-of-Yr):,268,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1745-Sep-25,1745-09-25
+392,1746,Sep,27,,,(d-of-Yr):,270,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1746-Sep-27,1746-09-27
+393,1747,Oct,3,,,(d-of-Yr):,276,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1747-Oct-3,1747-10-03
+394,1748,Sep,26,,,(d-of-Yr):,270,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1748-Sep-26,1748-09-26
+395,1749,Sep,30,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1749-Sep-30,1749-09-30
+396,1750,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1750-Sep-24,1750-09-24
+397,1751,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1751-Oct-6,1751-10-06
+398,1752,Sep,29,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1752-Sep-29,1752-09-29
+399,1753,Sep,20,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1753-Sep-20,1753-09-20
+400,1754,Oct,1,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1754-Oct-1,1754-10-01
+401,1755,Sep,17,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1755-Sep-17,1755-09-17
+402,1756,Oct,5,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1756-Oct-5,1756-10-05
+403,1757,Sep,27,,,(d-of-Yr):,270,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1757-Sep-27,1757-09-27
+404,1758,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1758-Sep-26,1758-09-26
+405,1759,Sep,22,,,(d-of-Yr):,265,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1759-Sep-22,1759-09-22
+406,1760,Sep,16,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1760-Sep-16,1760-09-16
+407,1761,Sep,15,,,(d-of-Yr):,258,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1761-Sep-15,1761-09-15
+408,1762,Sep,16,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1762-Sep-16,1762-09-16
+409,1763,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1763-Oct-6,1763-10-06
+410,1764,Sep,18,,,(d-of-Yr):,262,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1764-Sep-18,1764-09-18
+411,1765,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1765-Sep-24,1765-09-24
+412,1766,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1766-Sep-26,1766-09-26
+413,1767,Oct,7,,,(d-of-Yr):,280,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1767-Oct-7,1767-10-07
+414,1768,Sep,29,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1768-Sep-29,1768-09-29
+415,1769,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1769-Sep-29,1769-09-29
+416,1770,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1770-Oct-6,1770-10-06
+417,1771,Sep,27,,,(d-of-Yr):,270,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1771-Sep-27,1771-09-27
+418,1772,Sep,25,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1772-Sep-25,1772-09-25
+419,1773,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1773-Sep-29,1773-09-29
+420,1774,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1774-Sep-24,1774-09-24
+421,1775,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1775-Sep-26,1775-09-26
+422,1776,Oct,1,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1776-Oct-1,1776-10-01
+423,1777,Oct,1,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1777-Oct-1,1777-10-01
+424,1778,Sep,22,,,(d-of-Yr):,265,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1778-Sep-22,1778-09-22
+425,1779,Sep,21,,,(d-of-Yr):,264,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1779-Sep-21,1779-09-21
+426,1780,Sep,20,,,(d-of-Yr):,264,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1780-Sep-20,1780-09-20
+427,1781,Sep,12,,,(d-of-Yr):,255,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1781-Sep-12,1781-09-12
+428,1782,Oct,2,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1782-Oct-2,1782-10-02
+429,1783,Sep,18,,,(d-of-Yr):,261,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1783-Sep-18,1783-09-18
+430,1784,Sep,15,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1784-Sep-15,1784-09-15
+431,1785,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1785-Sep-24,1785-09-24
+432,1786,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1786-Sep-28,1786-09-28
+433,1787,Oct,5,,,(d-of-Yr):,278,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1787-Oct-5,1787-10-05
+434,1788,Sep,13,,,(d-of-Yr):,257,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1788-Sep-13,1788-09-13
+435,1789,Oct,8,,,(d-of-Yr):,281,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1789-Oct-8,1789-10-08
+436,1790,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1790-Sep-28,1790-09-28
+437,1791,Sep,20,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1791-Sep-20,1791-09-20
+438,1792,Oct,4,,,(d-of-Yr):,278,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1792-Oct-4,1792-10-04
+439,1793,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1793-Sep-26,1793-09-26
+440,1794,Sep,16,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1794-Sep-16,1794-09-16
+441,1795,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1795-Sep-29,1795-09-29
+442,1796,Oct,9,,,(d-of-Yr):,283,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1796-Oct-9,1796-10-09
+443,1797,Oct,3,,,(d-of-Yr):,276,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1797-Oct-3,1797-10-03
+444,1798,Sep,19,,,(d-of-Yr):,262,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1798-Sep-19,1798-09-19
+445,1799,Oct,10,,,(d-of-Yr):,283,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1799-Oct-10,1799-10-10
+446,1800,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1800-Sep-26,1800-09-26
+447,1801,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1801-Sep-29,1801-09-29
+448,1802,Sep,23,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1802-Sep-23,1802-09-23
+449,1803,Sep,30,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1803-Sep-30,1803-09-30
+450,1804,Oct,1,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1804-Oct-1,1804-10-01
+451,1805,Oct,16,,,(d-of-Yr):,289,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1805-Oct-16,1805-10-16
+452,1806,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1806-Sep-29,1806-09-29
+453,1807,Sep,25,,,(d-of-Yr):,268,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1807-Sep-25,1807-09-25
+454,1808,Sep,29,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1808-Sep-29,1808-09-29
+455,1809,Oct,17,,,(d-of-Yr):,290,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1809-Oct-17,1809-10-17
+456,1810,Oct,2,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1810-Oct-2,1810-10-02
+457,1811,Sep,14,,,(d-of-Yr):,257,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1811-Sep-14,1811-09-14
+458,1812,Oct,12,,,(d-of-Yr):,286,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1812-Oct-12,1812-10-12
+459,1813,Oct,12,,,(d-of-Yr):,285,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1813-Oct-12,1813-10-12
+460,1814,Oct,7,,,(d-of-Yr):,280,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1814-Oct-7,1814-10-07
+461,1815,Sep,23,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1815-Sep-23,1815-09-23
+462,1816,Oct,28,,,(d-of-Yr):,302,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1816-Oct-28,1816-10-28
+463,1817,Oct,11,,,(d-of-Yr):,284,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1817-Oct-11,1817-10-11
+464,1818,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1818-Sep-28,1818-09-28
+465,1819,Sep,25,,,(d-of-Yr):,268,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1819-Sep-25,1819-09-25
+466,1820,Oct,12,,,(d-of-Yr):,286,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1820-Oct-12,1820-10-12
+467,1821,Oct,18,,,(d-of-Yr):,291,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1821-Oct-18,1821-10-18
+468,1822,Sep,3,,,(d-of-Yr):,246,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1822-Sep-3,1822-09-03
+469,1823,Oct,14,,,(d-of-Yr):,287,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1823-Oct-14,1823-10-14
+470,1824,Oct,12,,,(d-of-Yr):,286,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1824-Oct-12,1824-10-12
+471,1825,Sep,19,,,(d-of-Yr):,262,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1825-Sep-19,1825-09-19
+472,1826,Oct,4,,,(d-of-Yr):,277,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1826-Oct-4,1826-10-04
+473,1827,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1827-Sep-29,1827-09-29
+474,1828,Oct,2,,,(d-of-Yr):,276,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1828-Oct-2,1828-10-02
+475,1829,Oct,13,,,(d-of-Yr):,286,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1829-Oct-13,1829-10-13
+476,1830,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1830-Sep-29,1830-09-29
+477,1831,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1831-Sep-29,1831-09-29
+478,1832,Oct,5,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1832-Oct-5,1832-10-05
+479,1833,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1833-Sep-29,1833-09-29
+480,1834,Sep,16,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1834-Sep-16,1834-09-16
+481,1835,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1835-Oct-6,1835-10-06
+482,1836,Oct,7,,,(d-of-Yr):,281,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1836-Oct-7,1836-10-07
+483,1837,Oct,11,,,(d-of-Yr):,284,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1837-Oct-11,1837-10-11
+484,1838,Oct,9,,,(d-of-Yr):,282,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1838-Oct-9,1838-10-09
+485,1839,Oct,2,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1839-Oct-2,1839-10-02
+486,1840,Sep,27,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1840-Sep-27,1840-09-27
+487,1841,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1841-Sep-29,1841-09-29
+488,1842,Sep,22,,,(d-of-Yr):,265,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1842-Sep-22,1842-09-22
+489,1843,Oct,17,,,(d-of-Yr):,290,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1843-Oct-17,1843-10-17
+490,1844,Sep,25,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1844-Sep-25,1844-09-25
+491,1845,Oct,8,,,(d-of-Yr):,281,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1845-Oct-8,1845-10-08
+492,1846,Sep,16,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1846-Sep-16,1846-09-16
+493,1847,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1847-Oct-6,1847-10-06
+494,1848,Sep,29,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1848-Sep-29,1848-09-29
+495,1849,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1849-Sep-29,1849-09-29
+496,1850,Oct,9,,,(d-of-Yr):,282,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1850-Oct-9,1850-10-09
+497,1851,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1851-Oct-6,1851-10-06
+498,1852,Sep,27,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1852-Sep-27,1852-09-27
+499,1853,Oct,8,,,(d-of-Yr):,281,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1853-Oct-8,1853-10-08
+500,1854,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1854-Sep-28,1854-09-28
+501,1855,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1855-Oct-6,1855-10-06
+502,1856,Oct,2,,,(d-of-Yr):,276,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1856-Oct-2,1856-10-02
+503,1857,Sep,21,,,(d-of-Yr):,264,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1857-Sep-21,1857-09-21
+504,1858,Sep,19,,,(d-of-Yr):,262,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1858-Sep-19,1858-09-19
+505,1859,Sep,20,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1859-Sep-20,1859-09-20
+506,1860,Oct,8,,,(d-of-Yr):,282,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1860-Oct-8,1860-10-08
+507,1861,Sep,30,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1861-Sep-30,1861-09-30
+508,1862,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1862-Sep-26,1862-09-26
+509,1863,Sep,30,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1863-Sep-30,1863-09-30
+510,1864,Sep,29,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1864-Sep-29,1864-09-29
+511,1865,Sep,9,,,(d-of-Yr):,252,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1865-Sep-9,1865-09-09
+512,1866,Sep,25,,,(d-of-Yr):,268,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1866-Sep-25,1866-09-25
+513,1867,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1867-Sep-29,1867-09-29
+514,1868,Sep,15,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1868-Sep-15,1868-09-15
+515,1869,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1869-Sep-24,1869-09-24
+516,1870,Sep,19,,,(d-of-Yr):,262,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1870-Sep-19,1870-09-19
+517,1871,Oct,4,,,(d-of-Yr):,277,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1871-Oct-4,1871-10-04
+518,1872,Sep,27,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1872-Sep-27,1872-09-27
+519,1873,Oct,1,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1873-Oct-1,1873-10-01
+520,1874,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1874-Sep-26,1874-09-26
+521,1875,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1875-Sep-26,1875-09-26
+522,1876,Oct,7,,,(d-of-Yr):,281,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1876-Oct-7,1876-10-07
+523,1877,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1877-Oct-6,1877-10-06
+524,1878,Oct,4,,,(d-of-Yr):,277,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1878-Oct-4,1878-10-04
+525,1879,Oct,16,,,(d-of-Yr):,289,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1879-Oct-16,1879-10-16
+526,1880,Sep,27,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1880-Sep-27,1880-09-27
+527,1881,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1881-Sep-26,1881-09-26
+528,1882,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1882-Oct-6,1882-10-06
+529,1883,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1883-Sep-29,1883-09-29
+530,1884,Sep,29,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1884-Sep-29,1884-09-29
+531,1885,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1885-Sep-26,1885-09-26
+532,1886,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1886-Sep-29,1886-09-29
+533,1887,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1887-Sep-29,1887-09-29
+534,1888,Oct,5,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1888-Oct-5,1888-10-05
+535,1889,Sep,23,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1889-Sep-23,1889-09-23
+536,1890,Oct,1,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1890-Oct-1,1890-10-01
+537,1891,Oct,10,,,(d-of-Yr):,283,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1891-Oct-10,1891-10-10
+538,1892,Sep,23,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1892-Sep-23,1892-09-23
+539,1893,Aug,28,,,(d-of-Yr):,240,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1893-Aug-28,1893-08-28
+540,1894,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1894-Sep-29,1894-09-29
+541,1895,Sep,23,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1895-Sep-23,1895-09-23
+542,1896,Sep,28,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1896-Sep-28,1896-09-28
+543,1897,Sep,20,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1897-Sep-20,1897-09-20
+544,1898,Sep,30,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1898-Sep-30,1898-09-30
+545,1899,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1899-Sep-28,1899-09-28
+546,1900,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1900-Sep-29,1900-09-29
+547,1901,Sep,14,,,(d-of-Yr):,257,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1901-Sep-14,1901-09-14
+548,1902,Oct,2,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1902-Oct-2,1902-10-02
+549,1903,Oct,8,,,(d-of-Yr):,281,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1903-Oct-8,1903-10-08
+550,1904,Sep,20,,,(d-of-Yr):,264,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1904-Sep-20,1904-09-20
+551,1905,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1905-Sep-24,1905-09-24
+552,1906,Sep,22,,,(d-of-Yr):,265,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1906-Sep-22,1906-09-22
+553,1907,Oct,5,,,(d-of-Yr):,278,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1907-Oct-5,1907-10-05
+554,1908,Sep,24,,,(d-of-Yr):,268,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1908-Sep-24,1908-09-24
+555,1909,Oct,4,,,(d-of-Yr):,277,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1909-Oct-4,1909-10-04
+556,1910,Sep,19,,,(d-of-Yr):,262,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1910-Sep-19,1910-09-19
+557,1911,Sep,15,,,(d-of-Yr):,258,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1911-Sep-15,1911-09-15
+558,1912,Sep,29,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1912-Sep-29,1912-09-29
+559,1913,Oct,4,,,(d-of-Yr):,277,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1913-Oct-4,1913-10-04
+560,1914,Oct,5,,,(d-of-Yr):,278,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1914-Oct-5,1914-10-05
+561,1915,Sep,15,,,(d-of-Yr):,258,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1915-Sep-15,1915-09-15
+562,1916,Oct,5,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1916-Oct-5,1916-10-05
+563,1917,Sep,25,,,(d-of-Yr):,268,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1917-Sep-25,1917-09-25
+564,1918,Sep,25,,,(d-of-Yr):,268,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1918-Sep-25,1918-09-25
+565,1919,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1919-Sep-24,1919-09-24
+566,1920,Sep,22,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1920-Sep-22,1920-09-22
+567,1921,Sep,25,,,(d-of-Yr):,268,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1921-Sep-25,1921-09-25
+568,1922,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1922-Sep-28,1922-09-28
+569,1923,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1923-Sep-29,1923-09-29
+570,1924,Sep,25,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1924-Sep-25,1924-09-25
+571,1925,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1925-Sep-24,1925-09-24
+572,1926,Sep,27,,,(d-of-Yr):,270,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1926-Sep-27,1926-09-27
+573,1927,Sep,25,,,(d-of-Yr):,268,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1927-Sep-25,1927-09-25
+574,1928,Oct,1,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1928-Oct-1,1928-10-01
+575,1929,Sep,25,,,(d-of-Yr):,268,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1929-Sep-25,1929-09-25
+576,1930,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1930-Sep-29,1930-09-29
+577,1931,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1931-Sep-28,1931-09-28
+578,1932,Oct,12,,,(d-of-Yr):,286,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1932-Oct-12,1932-10-12
+579,1933,Sep,30,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1933-Sep-30,1933-09-30
+580,1934,Sep,21,,,(d-of-Yr):,264,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1934-Sep-21,1934-09-21
+581,1935,Oct,3,,,(d-of-Yr):,276,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1935-Oct-3,1935-10-03
+582,1936,Oct,1,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1936-Oct-1,1936-10-01
+583,1937,Sep,23,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1937-Sep-23,1937-09-23
+584,1938,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1938-Oct-6,1938-10-06
+585,1939,Oct,16,,,(d-of-Yr):,289,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1939-Oct-16,1939-10-16
+586,1940,Sep,23,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1940-Sep-23,1940-09-23
+587,1941,Oct,8,,,(d-of-Yr):,281,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1941-Oct-8,1941-10-08
+588,1942,Oct,7,,,(d-of-Yr):,280,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1942-Oct-7,1942-10-07
+589,1943,Sep,23,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1943-Sep-23,1943-09-23
+590,1944,Sep,28,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1944-Sep-28,1944-09-28
+591,1945,Sep,17,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1945-Sep-17,1945-09-17
+592,1946,Sep,21,,,(d-of-Yr):,264,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1946-Sep-21,1946-09-21
+593,1947,Sep,16,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1947-Sep-16,1947-09-16
+594,1948,Sep,25,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1948-Sep-25,1948-09-25
+595,1949,Sep,22,,,(d-of-Yr):,265,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1949-Sep-22,1949-09-22
+596,1950,Sep,21,,,(d-of-Yr):,264,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1950-Sep-21,1950-09-21
+597,1951,Oct,15,,,(d-of-Yr):,288,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1951-Oct-15,1951-10-15
+598,1952,Sep,18,,,(d-of-Yr):,262,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1952-Sep-18,1952-09-18
+599,1953,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1953-Sep-24,1953-09-24
+600,1954,Oct,7,,,(d-of-Yr):,280,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1954-Oct-7,1954-10-07
+601,1955,Oct,3,,,(d-of-Yr):,276,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1955-Oct-3,1955-10-03
+602,1956,Oct,11,,,(d-of-Yr):,285,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1956-Oct-11,1956-10-11
+603,1957,Oct,2,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1957-Oct-2,1957-10-02
+604,1958,Sep,29,,,(d-of-Yr):,272,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1958-Sep-29,1958-09-29
+605,1959,Sep,15,,,(d-of-Yr):,258,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1959-Sep-15,1959-09-15
+606,1960,Sep,19,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1960-Sep-19,1960-09-19
+607,1961,Sep,25,,,(d-of-Yr):,268,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1961-Sep-25,1961-09-25
+608,1962,Oct,6,,,(d-of-Yr):,279,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1962-Oct-6,1962-10-06
+609,1963,Oct,5,,,(d-of-Yr):,278,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1963-Oct-5,1963-10-05
+610,1964,Sep,20,,,(d-of-Yr):,264,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1964-Sep-20,1964-09-20
+611,1965,Oct,11,,,(d-of-Yr):,284,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1965-Oct-11,1965-10-11
+612,1966,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1966-Sep-24,1966-09-24
+613,1967,Sep,30,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1967-Sep-30,1967-09-30
+614,1968,Oct,1,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1968-Oct-1,1968-10-01
+615,1969,Oct,4,,,(d-of-Yr):,277,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1969-Oct-4,1969-10-04
+616,1970,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1970-Sep-28,1970-09-28
+617,1971,Sep,16,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1971-Sep-16,1971-09-16
+618,1972,Oct,6,,,(d-of-Yr):,280,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1972-Oct-6,1972-10-06
+619,1973,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1973-Sep-26,1973-09-26
+620,1974,Sep,23,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1974-Sep-23,1974-09-23
+621,1975,Sep,30,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1975-Sep-30,1975-09-30
+622,1976,Sep,6,,,(d-of-Yr):,250,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1976-Sep-6,1976-09-06
+623,1977,Oct,3,,,(d-of-Yr):,276,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1977-Oct-3,1977-10-03
+624,1978,Oct,7,,,(d-of-Yr):,280,Day-of-Year:,"late / Beaune (CO) / S:Labbé, GHD_Beaune",1978-Oct-7,1978-10-07
+625,1979,Oct,1,,,(d-of-Yr):,274,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1979-Oct-1,1979-10-01
+626,1980,Oct,9,,,(d-of-Yr):,283,Day-of-Year:,"extremely late / Beaune (CO) / S:Labbé, GHD_Beaune",1980-Oct-9,1980-10-09
+627,1981,Sep,23,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1981-Sep-23,1981-09-23
+628,1982,Sep,20,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1982-Sep-20,1982-09-20
+629,1983,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1983-Sep-26,1983-09-26
+630,1984,Sep,29,,,(d-of-Yr):,273,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",1984-Sep-29,1984-09-29
+631,1985,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1985-Sep-26,1985-09-26
+632,1986,Sep,24,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1986-Sep-24,1986-09-24
+633,1987,Sep,28,,,(d-of-Yr):,271,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1987-Sep-28,1987-09-28
+634,1988,Sep,22,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1988-Sep-22,1988-09-22
+635,1989,Sep,13,,,(d-of-Yr):,256,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1989-Sep-13,1989-09-13
+636,1990,Sep,17,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1990-Sep-17,1990-09-17
+637,1991,Sep,26,,,(d-of-Yr):,269,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",1991-Sep-26,1991-09-26
+638,1992,Sep,15,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1992-Sep-15,1992-09-15
+639,1993,Sep,16,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1993-Sep-16,1993-09-16
+640,1994,Sep,19,,,(d-of-Yr):,262,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1994-Sep-19,1994-09-19
+641,1995,Sep,23,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1995-Sep-23,1995-09-23
+642,1996,Sep,22,,,(d-of-Yr):,266,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",1996-Sep-22,1996-09-22
+643,1997,Sep,16,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",1997-Sep-16,1997-09-16
+644,1998,Sep,19,,,(d-of-Yr):,262,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1998-Sep-19,1998-09-19
+645,1999,Sep,17,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",1999-Sep-17,1999-09-17
+646,2000,Sep,16,,,(d-of-Yr):,260,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",2000-Sep-16,2000-09-16
+647,2001,Sep,20,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",2001-Sep-20,2001-09-20
+648,2002,Sep,16,,,(d-of-Yr):,259,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",2002-Sep-16,2002-09-16
+649,2003,Aug,19,,,(d-of-Yr):,231,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",2003-Aug-19,2003-08-19
+650,2004,Sep,23,,,(d-of-Yr):,267,Day-of-Year:,"rather early / Beaune (CO) / S:Labbé, GHD_Beaune",2004-Sep-23,2004-09-23
+651,2005,Sep,12,,,(d-of-Yr):,255,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",2005-Sep-12,2005-09-12
+652,2006,Sep,18,,,(d-of-Yr):,261,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",2006-Sep-18,2006-09-18
+653,2007,Sep,1,,,(d-of-Yr):,244,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",2007-Sep-1,2007-09-01
+654,2008,Sep,26,,,(d-of-Yr):,270,Day-of-Year:,"average / Beaune (CO) / S:Labbé, GHD_Beaune",2008-Sep-26,2008-09-26
+655,2009,Sep,8,,,(d-of-Yr):,251,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",2009-Sep-8,2009-09-08
+656,2010,Sep,20,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",2010-Sep-20,2010-09-20
+657,2011,Aug,30,,,(d-of-Yr):,242,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",2011-Aug-30,2011-08-30
+658,2012,Sep,19,,,(d-of-Yr):,263,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",2012-Sep-19,2012-09-19
+659,2013,Oct,2,,,(d-of-Yr):,275,Day-of-Year:,"rather late / Beaune (CO) / S:Labbé, GHD_Beaune",2013-Oct-2,2013-10-02
+660,2014,Sep,11,,,(d-of-Yr):,254,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",2014-Sep-11,2014-09-11
+661,2015,Sep,2,,,(d-of-Yr):,245,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",2015-Sep-2,2015-09-02
+662,2016,Sep,20,,,(d-of-Yr):,264,Day-of-Year:,"early / Beaune (CO) / S:Labbé, GHD_Beaune",2016-Sep-20,2016-09-20
+663,2017,Sep,1,,,(d-of-Yr):,244,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",2017-Sep-1,2017-09-01
+664,2018,Aug,25,,,(d-of-Yr):,237,Day-of-Year:,"extremely advanced / Beaune (CO) / S:Labbé, GHD_Beaune",2018-Aug-25,2018-08-25
