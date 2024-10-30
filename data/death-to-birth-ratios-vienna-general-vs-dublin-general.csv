@@ -1,4 +1,4 @@
-Hospital,Year,Births,Deaths,Rate (%),Note
+Hospital,Year,Births,Deaths,Rate,Note
 Vienna General,1784,284,6,2.1,No pathological anatomy
 Vienna General,1785,899,13,1.4,
 Vienna General,1786,"1,151",5,0.4,
